@@ -126,6 +126,20 @@
 //     return x+y;
 // })()
 
+// console.log(`${function me(){ return akm}}`)     //error
+
+// console.log(`${(function(){return 5})()+10}`)
+
+// Function Invoke
+//--------------------------------------------------
+
+// function itoft (val){
+//     return showResult (val/12)
+// }
+
+// function showResult (tex){
+//     return "The result is "+tex
+// }
 
 
 // Array
@@ -205,47 +219,51 @@
 // pratical student
 //--------------------------------------------------
 
-let name = "mg mg";
-let age = 15
-let money = 200;
+// let name = "mg mg";
+// let age = 15
+// let money = 200;
 
-money -= 50;
-console.log(money)
+// money -= 50;
+// console.log(money)
 
-const mgmgBag = ["mm","eng","bio",false]
-let canmgmgSmoke = false;
-let canmgmgFriSmoke = true;
+// const mgmgBag = ["mm","eng","bio",false]
+// let canmgmgSmoke = false;
+// let canmgmgFriSmoke = true;
 
-let mgmgObj = {
-    name : "mg mg",
-    age : 15,
-    canSmoke : false,
-    money : money,
-    bag : mgmgBag
-}
+// let mgmgObj = {
+//     name : "mg mg",
+//     age : 15,
+//     canSmoke : false,
+//     money : money,
+//     bag : mgmgBag
+// }
 
-let kyawkyawObj = {
-    name : "Kyaw Kyaw",
-    age : 16,
-    canSmoke : true,
-    money : 100,
-    bag : ["mm","eng"]
-}
+// let kyawkyawObj = {
+//     name : "Kyaw Kyaw",
+//     age : 16,
+//     canSmoke : true,
+//     money : 100,
+//     bag : ["mm","eng"]
+// }
 
-let MyaMyaObj = {
-    name : "Mya Mya",
-    age : 15,
-    canSmoke : true,
-    money : 1000,
-    bag : ["mm","eng","math","phy","chem","bio"]
-}
+// let MyaMyaObj = {
+//     name : "Mya Mya",
+//     age : 15,
+//     canSmoke : true,
+//     money : 1000,
+//     bag : ["mm","eng","math","phy","chem","bio"]
+// }
 
-console.log(mgmgObj)
-console.log(kyawkyawObj)
-console.log(MyaMyaObj)
+// console.log(mgmgObj)
+// console.log(kyawkyawObj)
+// console.log(MyaMyaObj)
 
-const student = [
-    mgmgObj,kyawkyawObj,MyaMyaObj
-]
+// const student = [
+//     mgmgObj,kyawkyawObj,MyaMyaObj
+// ]
 
-console.log(student)
+// console.log(student)
+
+
+
+
