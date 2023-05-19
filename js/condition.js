@@ -58,3 +58,4 @@ if(mark >= 80){
 }else if(mark < 40){
     console.log("Fail")
 }
+
